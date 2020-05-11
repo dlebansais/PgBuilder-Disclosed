@@ -7,7 +7,7 @@ Please don't ignore the Bug Report section at the end!
 
 ## Purpose
 
-This application can be used to simulate a build based on two skills, various gear items and theirs mods.
+This application can be used to simulate a build based on two skills, various gear items and their mods.
 
 ## Requirements
 
