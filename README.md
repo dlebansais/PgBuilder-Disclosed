@@ -47,7 +47,7 @@ To submit the bug:
 
 + Make a screenshot in game of the ability. You can edit the screenshot to only keep the ability window.
 + Make a zip file with the screenshot file and the build text file for PgBuilder.
-+ [Create a new issue](https://github.com/dlebansais/PgJsonParse/issues/new/choose) and attach the zip file.
++ [Create a new issue](https://github.com/dlebansais/PgBuilder-Disclosed/issues/new) (login required) or send me an email, and attach the zip file.
 
 ### Know issues
 
