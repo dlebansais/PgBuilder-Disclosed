@@ -1,3 +1,12 @@
+# 1.0.0.214
+
++ Included mods that directly damage health in the damage formula.
++ Removed basic attack lines with 0.
++ Fixed mods dealing random damage with a min > 1.
++ Added a damage formula that works only for Fireball and Frostball.
++ Parsing "however" the same as "but".
++ Fixed a couple mods that didn't parse right.
+
 # 1.0.0.165
 
 + Updated the DoT formula.
