@@ -1,5 +1,15 @@
+# 1.0.0.265
+
++ Fixed random damage when the min is 1.
++ Added support for cloth enhancement damage.
++ Removed the special case for Fireball.
++ Improved support of mods that activate when hit.
++ Always select the last tier of a new mod.
++ Improved selection of mods.
+
 # 1.0.0.214
 
++ Moved all values to float to avoid some rounding issues.
 + Included mods that directly damage health in the damage formula.
 + Removed basic attack lines with 0.
 + Fixed mods dealing random damage with a min > 1.
