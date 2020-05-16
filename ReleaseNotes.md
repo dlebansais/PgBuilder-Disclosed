@@ -1,6 +1,6 @@
 # 1.0.0.292
 
-+ Fixed some parsing issue with mods that modifiy the dot damage.
++ Fixed some parsing issue with mods that modify the dot damage.
 + Fixed special values that have both a delta and a mod.
 + Improved the display of combat sub-skills.
 + Fixed abilities that damage armor.
