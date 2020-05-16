@@ -1,3 +1,13 @@
+# 1.0.0.292
+
++ Fixed some parsing issue with mods that modifiy the dot damage.
++ Fixed special values that have both a delta and a mod.
++ Improved the display of combat sub-skills.
++ Fixed abilities that damage armor.
++ Fixed a Rotskin mod.
++ Fixed ammo that sometimes don't show.
++ Fixed mods that apply damage after a delay.
+
 # 1.0.0.265
 
 + Fixed random damage when the min is 1.
