@@ -1,6 +1,6 @@
 # PgBuilder
 
-A tool to optimize gear for a character of the Project: Gorgon MMORPG. You can download the latest version (for client 334) [here](https://github.com/dlebansais/PgBuilder-Disclosed/releases/tag/v1.0.0.292).
+A tool to optimize gear for a character of the Project: Gorgon MMORPG. You can download the latest version (for client 335) [here](https://github.com/dlebansais/PgBuilder-Disclosed/releases/tag/v1.0.0.632).
 There are also some [release notes](https://github.com/dlebansais/PgBuilder-Disclosed/blob/master/ReleaseNotes.md).
 
 Please don't ignore the Bug Report section at the end!
@@ -14,7 +14,7 @@ This application can be used to simulate a build based on two skills, various ge
 This tool can only work with a cache file prepared with the [PgJsonParse](https://github.com/dlebansais/PgJsonParse/releases) application. If you haven't used it already, please follow these steps:
 
 + Download the .exe file linked above, and run it.
-+ Select version 334 (this should be the latest version) and download it.
++ Select version 335 (this should be the latest version) and download it.
 + During download, make sure the "Load version fast" check box is checked, this will create the cache file.
 + Once the cache has been created, PgBuilder can be run, and it will locate the cache file automatically.
 
