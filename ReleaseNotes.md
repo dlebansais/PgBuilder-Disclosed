@@ -1,3 +1,9 @@
+# 1.0.0.724
+
+This version includes a new feature: one can add buffs and see how this affects abilities.
++ Limited to 8 buffs
++ Preliminary, I need to double-check that every buff is handled properly.
+
 # 1.0.0.632
 
 This version only works with cache file from version 335.
