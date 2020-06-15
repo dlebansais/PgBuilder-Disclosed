@@ -1,6 +1,6 @@
 # PgBuilder
 
-A tool to optimize gear for a character of the Project: Gorgon MMORPG. You can download the latest version (for client 335) [here](https://github.com/dlebansais/PgBuilder-Disclosed/releases/tag/v1.0.0.724).
+A tool to optimize gear for a character of the Project: Gorgon MMORPG. You can download the latest version (for client 335) [here](https://github.com/dlebansais/PgBuilder-Disclosed/releases/tag/v1.0.0.881).
 There are also some [release notes](https://github.com/dlebansais/PgBuilder-Disclosed/blob/master/ReleaseNotes.md).
 
 Please don't ignore the Bug Report section at the end!
@@ -11,12 +11,7 @@ This application can be used to simulate a build based on two skills, various ge
 
 ## Requirements
 
-This tool can only work with a cache file prepared with the [PgJsonParse](https://github.com/dlebansais/PgJsonParse/releases) application. If you haven't used it already, please follow these steps:
-
-+ Download the .exe file linked above, and run it.
-+ Select version 335 (this should be the latest version) and download it.
-+ During download, make sure the "Load version fast" check box is checked, this will create the cache file.
-+ Once the cache has been created, PgBuilder can be run, and it will locate the cache file automatically.
+This tool no longer require [PgJsonParse](https://github.com/dlebansais/PgJsonParse/releases), but if you don't use it, icons will take some time to download.
 
 ## Skills and abilities
 
@@ -28,6 +23,10 @@ At the bottom of the application Window, select a slot and for this slot:
 
 + You can select an item that you will equip, if you want to work with a specific item.
 + You can add mods with the corresponding button. Mods come from any of the selected skills, and in addition to them generic mods can be selected.
+
+## Buffs
+
+You can add up to 10 buffs with the `Add Buff` button (damage potions, for instance). Corresponding effects are taken into account when abilities are displayed.
 
 ## View mode
 
