@@ -1,3 +1,10 @@
+# 1.0.0.881
+
+This version no longer depends on pgjsonparse. The trade-off is that it's slightly slower to load, but this will be optimized in the future.
+
+Also include:
++ Mods that change damage type are now evaluated before other mods, not in the middle.
+
 # 1.0.0.724
 
 This version includes a new feature: one can add buffs and see how this affects abilities.
