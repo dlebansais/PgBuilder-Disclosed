@@ -1,3 +1,8 @@
+# 1.0.0.895
+
+This version includes changes made behind the scene.
+Also include a fix in one of the Tough Hoof mods.
+
 # 1.0.0.881
 
 This version no longer depends on pgjsonparse. The trade-off is that it's slightly slower to load, but this will be optimized in the future.
