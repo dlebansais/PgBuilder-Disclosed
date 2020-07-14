@@ -53,4 +53,7 @@ To submit the bug:
 + Knife Fighting
   * Off-Hand/Neck
     - *Indirect Trauma and Poison damage +% when Knife-Fighting skill is active*: the result can differ by less than 0.5% due to what is probably a display bug in game.
-    
+
+# Certification
+This program is digitally signed with a [CAcert](https://www.cacert.org/) certificate.
+
