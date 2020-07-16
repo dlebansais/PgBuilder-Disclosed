@@ -1,3 +1,7 @@
+# 1.0.0.925
+
+This version includes the v336 files (with Spirit Fox added).
+
 # 1.0.0.895
 
 This version includes changes made behind the scene.
