@@ -1,3 +1,13 @@
+# 1.0.0.944
+
+This release includes many improvements:
+
++ The loading time, from click to the window popping, has been improved.
++ Support for checking if a new release is available.
++ Better processing and more accurate information about client v336. Spirit Fox mods for instance.
++ Support for updating the taskbar shortcut, if any, with an icon from the game.
++ Several bug fixes. There remains a known issue with mods acting on a pet Basic Attack.
+
 # 1.0.0.925
 
 This version includes the v336 files (with Spirit Fox added).
