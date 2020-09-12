@@ -1,3 +1,7 @@
+# 1.0.0.983
+
+Update to client 337.
+
 # 1.0.0.944
 
 This release includes many improvements:
