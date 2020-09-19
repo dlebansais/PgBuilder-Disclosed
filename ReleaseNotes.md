@@ -1,3 +1,7 @@
+# 1.0.0.987
+
+When selecting an ability with the left button mouse, the wrong ability would be replaced, depending on how the menu is displayed (to the left or to the right of the mouse). This has been fixed.
+
 # 1.0.0.985
 
 + Update to client 338.
