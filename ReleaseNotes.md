@@ -1,3 +1,9 @@
+# 1.0.0.985
+
++ Update to client 338.
++ Added candle buffs.
++ Fixed a bug in the code checking for updates.
+
 # 1.0.0.983
 
 Update to client 337.
