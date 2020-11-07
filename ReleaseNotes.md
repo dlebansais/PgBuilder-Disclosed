@@ -1,3 +1,7 @@
+# 1.0.0.1008
+
+Update to client 340.
+
 # 1.0.0.988
 
 Update to client 339.
