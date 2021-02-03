@@ -1,3 +1,7 @@
+# 1.1.341.1039
+
+There was a random crash when using basic attacks and the organic armor set that has been fixed.
+
 # 1.1.341
 
 Update to client 341.
