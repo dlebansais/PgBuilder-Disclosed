@@ -1,6 +1,6 @@
 # PgBuilder
 
-A tool to optimize gear for a character of the Project: Gorgon MMORPG. You can download the latest version (for client 342) [here](https://github.com/dlebansais/PgBuilder-Disclosed/releases/download/v1.1.342.1040/PgBuilder.exe).
+A tool to optimize gear for a character of the Project: Gorgon MMORPG. You can download the latest version (for client 348) [here](https://github.com/dlebansais/PgBuilder-Disclosed/releases/download/v1.1.348.1043/PgBuilder.exe).
 There are also some [release notes](https://github.com/dlebansais/PgBuilder-Disclosed/blob/master/ReleaseNotes.md).
 
 Please don't ignore the Bug Report section at the end!
@@ -53,7 +53,3 @@ To submit the bug:
 + Knife Fighting
   * Off-Hand/Neck
     - *Indirect Trauma and Poison damage +% when Knife-Fighting skill is active*: the result can differ by less than 0.5% due to what is probably a display bug in game.
-
-# Certification
-This program is digitally signed with a [CAcert](https://www.cacert.org/) certificate.
-
