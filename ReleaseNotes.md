@@ -1,3 +1,7 @@
+# 1.1.358.1049
+
+Update to client 359 (Feb 9, 2022).
+
 # 1.1.357.1049
 
 Update to client 357 (Feb 2, 2022).
