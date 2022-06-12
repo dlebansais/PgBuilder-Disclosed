@@ -1,3 +1,10 @@
+# 1.1.364.1059
+
+This build includes:
++ The changes from game files version 364 (June 10 2022 rebalancing).
++ A revamp of the GUI to make it more compatible with browsers.
+For people not using Windows this program can also be run from [the gorgonapps](https://gorgonapps.github.io/) site.
+
 # 1.1.360.1050
 
 Update to client 360 (Mar 16, 2022).
