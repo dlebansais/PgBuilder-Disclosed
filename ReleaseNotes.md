@@ -1,3 +1,7 @@
+# 1.1.365.1059
+
+Update to client 365 and some glitch fix.
+
 # 1.1.364.1059
 
 This build includes:
