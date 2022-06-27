@@ -1,3 +1,9 @@
+# 1.1.367.1060
+
+Update to client 367.
+
+Also includes a couple fixes for Song of Discord, though the numbers probably don't match what's in game anyway. The song itself looks bugged.
+
 # 1.1.365.1059
 
 Update to client 365 and some glitch fix.
