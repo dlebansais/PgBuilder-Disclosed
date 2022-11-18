@@ -1,3 +1,7 @@
+# 1.1.374.1060
+
+Update to client 374 (Nov 15 2022).
+
 # 1.1.369.1060
 
 Update to client 369 (October 10 2022).
