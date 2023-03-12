@@ -1,3 +1,7 @@
+# 1.1.382.1061
+
+Update to client 382 (March 11 2023). Also include a fix for settings that were not preserved in some cases.
+
 # 1.1.378.1060
 
 Update to client 378 (Jan 17 2023).
