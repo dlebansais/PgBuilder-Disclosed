@@ -1,3 +1,7 @@
+# 1.1.387.1061
+
+Update to client 387 (June 10, 2023).
+
 # 1.1.386.1061
 
 Update to client 386, June 1 2023.
