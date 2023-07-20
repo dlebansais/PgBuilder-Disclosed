@@ -1,3 +1,6 @@
+# 1.1.392.1106
+Update to client 392 (July 20, 2023).
+
 # 1.1.391.1103
 Update to client 391 (July 6, 2023).
 
