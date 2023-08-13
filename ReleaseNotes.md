@@ -1,3 +1,17 @@
+# 1.1.394.1114
+Update to client 394 (August 12, 2023).
+
+The following skills have been reviewed, and many bugs fixed for them:
+
++ Animal Handling
++ Bard
++ Battle Chemistry
++ Cow
++ Deer
++ Druid
++ Spider
++ Sword
+
 # 1.1.392.1106
 Update to client 392 (July 20, 2023).
 
