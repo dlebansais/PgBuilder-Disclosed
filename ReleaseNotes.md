@@ -1,3 +1,7 @@
+# 1.1.397.1114
+Update to client 397 (November 17, 2023).
+Multiple bug fixes and (most likely) new bugs added...
+
 # 1.1.394.1114
 Update to client 394 (August 12, 2023).
 
