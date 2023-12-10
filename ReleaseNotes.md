@@ -1,3 +1,8 @@
+# 1.1.399.1132
+Update to client 399 (December 7, 2023).
+
+Includes the new profile data : if a mod cannot appear on an item, there is a strikethrough mark on both the item and the mod.
+
 # 1.1.397.1114
 Update to client 397 (November 17, 2023).
 Multiple bug fixes and (most likely) new bugs added...
