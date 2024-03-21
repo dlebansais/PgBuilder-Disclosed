@@ -1,3 +1,6 @@
+# 1.1.404.1134
+Update to client 404 (March 12, 2024).
+
 # 1.1.399.1132
 Update to client 399 (December 7, 2023).
 
