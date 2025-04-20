@@ -1,3 +1,6 @@
+# 1.1.426.1156
+Update to client 426 (Apr 03, 2025).
+
 # 1.1.421.1156
 Update to client 421 (Feb 26, 2025).
 
