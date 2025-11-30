@@ -1,7 +1,9 @@
 # PgBuilder
 
-A tool to optimize gear for a character of the Project: Gorgon MMORPG. You can download the latest version (for client 435) [here](https://github.com/dlebansais/PgBuilder-Disclosed/releases/download/v1.1.435.1156/PgBuilder.exe).
+A tool to optimize gear for a character of the Project: Gorgon MMORPG. You can download the latest version (for client 439) [here](https://github.com/dlebansais/PgBuilder-Disclosed/releases/download/v2.0.439.1160/PgBuilder-Full.exe).
 There are also some [release notes](https://github.com/dlebansais/PgBuilder-Disclosed/blob/master/ReleaseNotes.md).
+
+If you have the [.NET Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.22-windows-x64-installer) already installed, [this link](https://github.com/dlebansais/PgBuilder-Disclosed/releases/download/v2.0.439.1160/PgBuilder.exe) downloads a smaller file.
 
 Please don't ignore the Bug Report section at the end!
 
