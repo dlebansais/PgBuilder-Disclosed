@@ -1,3 +1,6 @@
+# 2.0.439.1161
+Enabling the check for update feature would crash the app. This has been fixed.
+
 # 2.0.439.1160
 + Update to client 439 (Nov 13th 2025)
 + This is also a new version targeting .NET 8. You can download the full, self-contained file, or the short file but you might also have to install the .NET Runtime, link [here](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.22-windows-x64-installer).
