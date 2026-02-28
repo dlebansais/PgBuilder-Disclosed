@@ -1,3 +1,6 @@
+# 2.0.461.1161
+Update to client 461 (Feb 26th 2026).
+
 # 2.0.456.1161
 Update to client 456 (Feb 7th 2026)
 First version post-release of the game, includes Statehelm.
