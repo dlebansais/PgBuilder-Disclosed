@@ -1,3 +1,6 @@
+# 2.2.461.1166
+Added a new command line parameter, `reset`, to stop the app from loading the last environment and files.
+
 # 2.1.461.1164
 Crash fix.
 
