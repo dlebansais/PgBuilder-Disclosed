@@ -1,6 +1,6 @@
 # PgBuilder
 
-A tool to optimize gear for a character of the Project: Gorgon MMORPG. You can download the latest version (for client 461) [here](https://github.com/dlebansais/PgBuilder-Disclosed/releases/download/v2.1.461.1164/PgBuilder-Full.exe).
+A tool to optimize gear for a character of the Project: Gorgon MMORPG. You can download the latest version (for client 461) [here](https://github.com/dlebansais/PgBuilder-Disclosed/releases/download/v2.2.461.1166/PgBuilder-Full.exe).
 There are also some [release notes](https://github.com/dlebansais/PgBuilder-Disclosed/blob/master/ReleaseNotes.md).
 
 Please don't ignore the Bug Report section at the end!
@@ -47,6 +47,10 @@ To submit the bug:
 + Make a screenshot in game of the ability. You can edit the screenshot to only keep the ability window.
 + Make a zip file with the screenshot file and the build text file for PgBuilder.
 + [Create a new issue](https://github.com/dlebansais/PgBuilder-Disclosed/issues/new) (login required) or send me an email, and attach the zip file.
+
+### Troubleshooting
+
+If the application crashes you can add the `reset` command-line parameter to have it start clean.
 
 ### Know issues
 
