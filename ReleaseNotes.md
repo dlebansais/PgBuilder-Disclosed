@@ -1,3 +1,8 @@
+# 2.2.469.1166
+Update to client 469 (April 16th 2026).
+
+Also fixes a crash with armor suites (leather, cloth...)
+
 # 2.2.461.1166
 Added a new command line parameter, `reset`, to stop the app from loading the last environment and files.
 
