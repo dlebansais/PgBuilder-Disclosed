@@ -1,3 +1,6 @@
+# 2.2.480.1166
+Update to client 480 (July 7th 2026).
+
 # 2.2.469.1166
 Update to client 469 (April 16th 2026).
 
